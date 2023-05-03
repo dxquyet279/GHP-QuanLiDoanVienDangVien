@@ -2,11 +2,11 @@
 # QUẢN LÍ ĐOÀN VIÊN, ĐẢNG VIÊN TRONG KHỐI SINH VIÊN
 
 ## Hướng dẫn về chương trình:
-1. Run project: run file App.java
-2. Hiện ra màn hình Log-in 
+### 1. Run project: run file App.java
+### 2. Hiện ra màn hình Log-in 
    Username:admin
    Password:admin
-3. Hiện ra màn hình quản lí chính
+### 3. Hiện ra màn hình quản lí chính
    Table: thống kê các thông tin của các sinh viên là Đoàn viên, Đảng viên (ID, Họ tên, Lớp, Địa chỉ, Tuổi, Điểm GPA, Ngày vào Đoàn, Nơi vào Đoàn, Ngày vào Đảng, Nơi vào Đảng, Đảng phí, Đoàn phí, Các phong trào tham gia, Khen thưởng, Kỷ luật)
    Các nút chức năng:
 	- Add: thêm mới một sinh viên (hiển thị thêm 1 màn hình nhập thông tin sinh viên mới, điền thông tin và bấm nút "Save New Student" để thêm mới)
@@ -23,7 +23,7 @@
 	- Đã đóng Đoàn phí: tìm kiếm những sinh viên đã đóng Đoàn phí, bấm nút sẽ hiển thị lên Table danh sách thông tin các sinh viên đã đóng Đoàn phí.
 	- Đã đóng Đảng phí: tìm kiếm những sinh viên đã đóng Đảng phí, bấm nút sẽ hiển thị lên Table danh sách thông tin các sinh viên đã đóng Đảng phí.
 	
-    * Note: sau khi sử dụng các chức năng tìm kiếm thống kê danh sách các sinh viên theo yêu cầu có thể sử dụng tiếp các nút chức năng sắp xếp để sắp xếp thứ tự các sinh viên đã tìm kiếm này.
+Note: sau khi sử dụng các chức năng tìm kiếm thống kê danh sách các sinh viên theo yêu cầu có thể sử dụng tiếp các nút chức năng sắp xếp để sắp xếp thứ tự các sinh viên đã tìm kiếm này.
    
    
    
