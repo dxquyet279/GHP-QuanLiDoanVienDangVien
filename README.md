@@ -5,14 +5,20 @@
    Run file App.java
 ### 2. Hiện ra màn hình Log-in 
    Username:admin
+   
    Password:admin
 ### 3. Hiện ra màn hình quản lí chính
    Table: thống kê các thông tin của các sinh viên là Đoàn viên, Đảng viên (ID, Họ tên, Lớp, Địa chỉ, Tuổi, Điểm GPA, Ngày vào Đoàn, Nơi vào Đoàn, Ngày vào Đảng, Nơi vào Đảng, Đảng phí, Đoàn phí, Các phong trào tham gia, Khen thưởng, Kỷ luật)
+   
    Các nút chức năng:
    	- Add: thêm mới một sinh viên (hiển thị thêm 1 màn hình nhập thông tin sinh viên mới, điền thông tin và bấm nút "Save New Student" để thêm mới)
+	
 	- Delete: xóa một sinh viên (bấm chọn 1 sinh viên trong Table rồi bấm nút "Delete" để xóa)
+	
 	- Student Information: hiển thị thêm 1 màn hình thể hiện chi tiết các thông tin của sinh viên và có thể thao tác chỉnh sửa thông tin sinh viên trên màn hình này (bấm chọn 1 sinh viên trong Table); trên màn hình này có nút "Edit" để lưu lại các thông tin đã chỉnh sửa, nút "Delete" để xóa sinh viên này.
+	
 	- Sort By ID: sắp xếp theo thứ tự ID tăng dần các sinh viên hiển thị trên Table
+	
 	- Sort By Name: sắp xếp theo thứ tự tên A=>Z các sinh viên hiển thị trên Table
 	- Sort By GPA: sắp xếp theo thứ tự điểm GPA tăng dần các sinh viên hiển thị trên Table
 	- Show All Students: hiển thị lại toàn bộ danh sách các sinh viên được lưu trong cơ sở dữ liệu và sắp xếp theo ID lên Table
