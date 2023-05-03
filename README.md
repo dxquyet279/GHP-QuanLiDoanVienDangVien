@@ -1,6 +1,6 @@
-=======================================================
+
 QUẢN LÍ ĐOÀN VIÊN, ĐẢNG VIÊN TRONG KHỐI SINH VIÊN
-=======================================================
+
 Hướng dẫn về chương trình:
 1. Run project: run file App.java
 2. Hiện ra màn hình Log-in 
