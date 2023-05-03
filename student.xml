@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+    <student>
+        <id>1</id>
+        <name>Mai Thanh Toàn</name>
+        <grade>B16D52</grade>
+        <address>Hà Nội</address>
+        <reward>Không có</reward>
+        <punishment>Không có</punishment>
+        <activity>Chưa tham gia</activity>
+        <dateJoinDoan>26/03/2017</dateJoinDoan>
+        <dateJoinDang>Chưa vào Đảng</dateJoinDang>
+        <placeJoinDoan>Trường THPT</placeJoinDoan>
+        <placeJoinDang>Chưa vào Đảng</placeJoinDang>
+        <isDoanPhi>true</isDoanPhi>
+        <isDangPhi>false</isDangPhi>
+        <age>22</age>
+        <gpa>3.7</gpa>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Mạc Thế Vinh</name>
+        <grade>B15D52</grade>
+        <address>Vĩnh Phúc</address>
+        <reward>Không có</reward>
+        <punishment>Không có</punishment>
+        <activity>Chưa tham gia</activity>
+        <dateJoinDoan>26/03/2016</dateJoinDoan>
+        <dateJoinDang>15/01/2023</dateJoinDang>
+        <placeJoinDoan>Trường THPT</placeJoinDoan>
+        <placeJoinDang>Học viện An ninh nhân dân</placeJoinDang>
+        <isDoanPhi>true</isDoanPhi>
+        <isDangPhi>false</isDangPhi>
+        <age>23</age>
+        <gpa>3.5</gpa>
+    </student>
+    <student>
+        <id>3</id>
+        <name>Đại Bằng</name>
+        <grade>B15D52</grade>
+        <address>Hà Nam</address>
+        <reward>Không có</reward>
+        <punishment>Không có</punishment>
+        <activity>Chưa tham gia</activity>
+        <dateJoinDoan>26/03/2015</dateJoinDoan>
+        <dateJoinDang>15/01/2023</dateJoinDang>
+        <placeJoinDoan>Trường THPT</placeJoinDoan>
+        <placeJoinDang>Học viện An ninh nhân dân</placeJoinDang>
+        <isDoanPhi>true</isDoanPhi>
+        <isDangPhi>true</isDangPhi>
+        <age>24</age>
+        <gpa>3.6</gpa>
+    </student>
+    <student>
+        <id>4</id>
+        <name>Đỗ Đại Học</name>
+        <grade>B15D52</grade>
+        <address>Hà Nội</address>
+        <reward>Không có</reward>
+        <punishment>Không có</punishment>
+        <activity>Chưa tham gia</activity>
+        <dateJoinDoan>26/03/2020</dateJoinDoan>
+        <dateJoinDang></dateJoinDang>
+        <placeJoinDoan>Trường THPT</placeJoinDoan>
+        <placeJoinDang></placeJoinDang>
+        <isDoanPhi>true</isDoanPhi>
+        <isDangPhi>false</isDangPhi>
+        <age>18</age>
+        <gpa>3.0</gpa>
+    </student>
+    <student>
+        <id>5</id>
+        <name>Đỗ Xuân Quyêt</name>
+        <grade>B15D52</grade>
+        <address>Bắc Giang</address>
+        <reward>Không có</reward>
+        <punishment>Không có</punishment>
+        <activity></activity>
+        <dateJoinDoan>26/03/2018</dateJoinDoan>
+        <dateJoinDang>07/03/2023</dateJoinDang>
+        <placeJoinDoan>Trường THPT Tân Yên số 1</placeJoinDoan>
+        <placeJoinDang>Học viện An ninh nhân dân</placeJoinDang>
+        <isDoanPhi>true</isDoanPhi>
+        <isDangPhi>true</isDangPhi>
+        <age>20</age>
+        <gpa>4.0</gpa>
+    </student>
+    <student>
+        <id>6</id>
+        <name>Nguyễn Văn Bình</name>
+        <grade>B15D52</grade>
+        <address>Hà Nội</address>
+        <reward>Không có</reward>
+        <punishment>Không có</punishment>
+        <activity>Chưa tham gia</activity>
+        <dateJoinDoan>26/03/2018</dateJoinDoan>
+        <dateJoinDang>Chưa vào Đảng</dateJoinDang>
+        <placeJoinDoan>Trường THPT</placeJoinDoan>
+        <placeJoinDang>Chưa vào Đảng</placeJoinDang>
+        <isDoanPhi>true</isDoanPhi>
+        <isDangPhi>false</isDangPhi>
+        <age>20</age>
+        <gpa>3.2</gpa>
+    </student>
+    <student>
+        <id>7</id>
+        <name>Hoàng Văn Nam</name>
+        <grade>B7D52</grade>
+        <address>Quảng Ninh</address>
+        <reward>Không có</reward>
+        <punishment>Không có</punishment>
+        <activity>Chưa tham gia</activity>
+        <dateJoinDoan>26/03/2017</dateJoinDoan>
+        <dateJoinDang>15/01/2023</dateJoinDang>
+        <placeJoinDoan>Trường THPT</placeJoinDoan>
+        <placeJoinDang>Học viện An ninh nhân dân</placeJoinDang>
+        <isDoanPhi>true</isDoanPhi>
+        <isDangPhi>true</isDangPhi>
+        <age>21</age>
+        <gpa>3.9</gpa>
+    </student>
+</students>
